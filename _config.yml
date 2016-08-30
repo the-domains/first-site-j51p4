@@ -11,6 +11,10 @@ color:
     - '#322920'
     - '#CB3842'
 layout_spectrum: 0.6297669738996774
-name: FIRST SITE
+name: GUITARCHORDS.CA
+navigation:
+  - name: 4 Quick And Easy Guitar Lessons For Beginners
+    id: 702280b6-8ef7-4890-a49e-4623bf15e760
+    type: content
 title: GUITAR CHORDS
 description: FIND YOUR JAM
