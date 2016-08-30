@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-08-28T17:07:33.513Z'
+datePublished: '2016-08-28T17:10:36.039Z'
+sourcePath: >-
+  _posts/2016-08-28-here-are-some-easy-to-learn-guitar-chords-that-you-must-know.md
 isBasedOnUrl: >-
   http://www.articlesbase.com/music-articles/here-are-some-easy-to-learn-guitar-chords-that-you-must-know-1276558.html
 keywords:
@@ -19,7 +21,7 @@ author:
     url: 'http://www.articlesbase.com/authors/liam-gibson/152456'
     avatar: {}
 via: {}
-dateModified: '2016-08-28T17:07:12.554Z'
+dateModified: '2016-08-28T17:10:35.771Z'
 title: Here Are Some Easy To Learn Guitar Chords That You Must Know
 app_links: []
 publisher:
@@ -34,8 +36,6 @@ description: >-
   that is having to learn the basic guitar chords.
 inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-08-28-here-are-some-easy-to-learn-guitar-chords-that-you-must-know.md
 inFeed: true
 hasPage: false
 inNav: false
