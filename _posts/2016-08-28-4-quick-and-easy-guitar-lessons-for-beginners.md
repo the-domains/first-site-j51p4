@@ -26,17 +26,14 @@ description: >-
   play your guitar - not quite rock guitar lessons, but they will come later.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.articlesbase.com/music-articles/4-quick-and-easy-guitar-lessons-for-beginners-4022939.html
 title: 4 Quick And Easy Guitar Lessons For Beginners
-datePublished: '2016-08-28T23:30:21.661Z'
-dateModified: '2016-08-28T18:14:27.564Z'
+datePublished: '2016-08-28T23:33:45.012Z'
+dateModified: '2016-08-28T23:33:44.493Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-28-4-quick-and-easy-guitar-lessons-for-beginners.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: 4-quick-and-easy-guitar-lessons-for-beginners/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
