@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[GUITAR CHORDS]]></title>
         <description><![CDATA[GUITAR CHORDS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://guitarchords.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 12:57:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Aug 2016 12:57:06 GMT</lastBuildDate>
+        <atom:link href="http://guitarchords.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Play Like Keith Richards]]></title>
+            <description><![CDATA[<article><h1>Play Like Keith Richards</h1><p>Keith Richards of the Rolling Stones is certainly a world class guitar player, but unlike some guitarists, he is best known for his 'feel' rather than his technique. He uses open tunings a great deal, and especially open g. If you can master some of his style you too will be able to 'play like Keith Richards'.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b23d7b6f16d577fb76239c731ebbf2bc/noop.jpg?input=http%3A%2F%2Fimages.articlesbase.com%2Fcategories_en%2F19%2F80%2F008.jpg"></article>]]></description>
+            <link>http://www.articlesbase.com/music-articles/play-like-keith-richards-2389941.html</link>
+            <guid isPermaLink="false">5ac72919-57b4-4612-a243-dfb8bf556b8a</guid>
+            <pubDate>Mon, 29 Aug 2016 12:55:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Beatles Greatest Psychedelic Tracks]]></title>
             <description><![CDATA[<article><h1>The Beatles Greatest Psychedelic Tracks</h1><p>John, Paul, George, & Ringo were the greatest rock band of all time and they played every kind of music a rock band can play during their time together. I'm the type of Beatles fan that appreciates all of their music but I do have do have a special appreciation for their more psychedelic songs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4fc0d3aa119b712087fe9d4cb4a03142/noop.jpg?input=http%3A%2F%2Fimages.articlesbase.com%2Fcategories_en%2F191%2F19%2F005.jpg"></article>]]></description>
